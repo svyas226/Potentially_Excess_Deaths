@@ -5,7 +5,7 @@
 
 
 # Introdution/Overview
-This repository presents a streamlit app analyzing potentially excess deaths from the five leading causes of death in nonmetropolitan and metropolitan areas across the United States from years 2005 to 2015. Potentially excess deaths are those beyond what would typically be expected based on historical data, providing valuable insights into public health trends and disparities between different states and localities.
+This repository presents a streamlit app analyzing the average potentially excess deaths from the five leading causes of death in nonmetropolitan and metropolitan areas across the United States from years 2005 to 2015. Potentially excess deaths are those beyond what would typically be expected based on historical data, providing valuable insights into public health trends and disparities between different states and localities.
 
 Potentially Excess Deaths = Observed Deaths - Expected Deaths
 
